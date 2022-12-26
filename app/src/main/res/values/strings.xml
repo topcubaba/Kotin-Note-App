@@ -1,0 +1,34 @@
+<resources>
+    //Strings
+    <string name="app_name">NoteApp</string>
+    <string name="your_note">Your Note</string>
+    <string name="welcome">Welcome!</string>
+    <string name="your_notes">Here are your notes:</string>
+    <string name="title_hint">Title*</string>
+    <string name="image_hint">Image Url</string>
+    <string name="description_hint">Description*</string>
+    <string name="is_edited_indicator">"Edited "</string>
+    <string name="date_text">19.11.2022</string>
+    <string name="description_text">This is sample description and this description can hold two lines. Because of that you should be careful</string>
+    <string name="title_text">This is sample title</string>
+
+    //Dimensions
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_mid">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="app_name_size">20sp</dimen>
+    <dimen name="title_text_size">16sp</dimen>
+    <dimen name="desc_text_size">14sp</dimen>
+    <dimen name="edited_size">10sp</dimen>
+
+    <dimen name="app_name_margin">12dp</dimen>
+    <dimen name="add_note_main_margin_large">10dp</dimen>
+    <dimen name="add_note_main_margin">12dp</dimen>
+    <dimen name="fab_button_margin">24dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="card_margin_mid">10dp</dimen>
+    <dimen name="card_inner_padding_small">4dp</dimen>
+    <dimen name="card_inner_padding_mid">8dp</dimen>
+    <dimen name="card_corner_radius">14dp</dimen>
+
+</resources>
